@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpAdvanced-RetakeExam", "CSharpAdvanced-RetakeExam\CSharpAdvanced-RetakeExam.csproj", "{398147DE-9C80-41E7-B415-1034D5C7AB3E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CocktailParty", "03. Cocktail Party_Skeleton\Skeleton\CocktailParty.csproj", "{35A6D1F4-8281-4A49-9719-9BCE6E6BD67B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02.SuperMario", "P02.SuperMario\P02.SuperMario.csproj", "{8E86152A-FAA8-44EF-B22F-FC5689C388F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01.WarmWinter", "P01.WarmWinter\P01.WarmWinter.csproj", "{325D329B-9B03-4D84-8C0F-92AE6303E20E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMario2", "SuperMario2\SuperMario2.csproj", "{ED4ECD8E-1EDB-4B25-8F46-F83A3A1172C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mario", "Mario\Mario.csproj", "{6231AD12-A81B-42AE-B37C-A9B50A85E543}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{398147DE-9C80-41E7-B415-1034D5C7AB3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{398147DE-9C80-41E7-B415-1034D5C7AB3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{398147DE-9C80-41E7-B415-1034D5C7AB3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{398147DE-9C80-41E7-B415-1034D5C7AB3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35A6D1F4-8281-4A49-9719-9BCE6E6BD67B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35A6D1F4-8281-4A49-9719-9BCE6E6BD67B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35A6D1F4-8281-4A49-9719-9BCE6E6BD67B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35A6D1F4-8281-4A49-9719-9BCE6E6BD67B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E86152A-FAA8-44EF-B22F-FC5689C388F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E86152A-FAA8-44EF-B22F-FC5689C388F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E86152A-FAA8-44EF-B22F-FC5689C388F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E86152A-FAA8-44EF-B22F-FC5689C388F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{325D329B-9B03-4D84-8C0F-92AE6303E20E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{325D329B-9B03-4D84-8C0F-92AE6303E20E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{325D329B-9B03-4D84-8C0F-92AE6303E20E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{325D329B-9B03-4D84-8C0F-92AE6303E20E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED4ECD8E-1EDB-4B25-8F46-F83A3A1172C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED4ECD8E-1EDB-4B25-8F46-F83A3A1172C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED4ECD8E-1EDB-4B25-8F46-F83A3A1172C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED4ECD8E-1EDB-4B25-8F46-F83A3A1172C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6231AD12-A81B-42AE-B37C-A9B50A85E543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6231AD12-A81B-42AE-B37C-A9B50A85E543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6231AD12-A81B-42AE-B37C-A9B50A85E543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6231AD12-A81B-42AE-B37C-A9B50A85E543}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBC9909D-E092-4164-ADB5-75D31EF385C6}
+	EndGlobalSection
+EndGlobal

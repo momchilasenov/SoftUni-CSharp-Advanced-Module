@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice", "Practice\Practice.csproj", "{81F9D83B-FC39-421D-AFAE-7426BBF67216}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CounterStrike", "01. Structure_Skeleton\CounterStrike\CounterStrike.csproj", "{EF7B4FAB-69B9-4161-BFC7-224EC6F3AA92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81F9D83B-FC39-421D-AFAE-7426BBF67216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81F9D83B-FC39-421D-AFAE-7426BBF67216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81F9D83B-FC39-421D-AFAE-7426BBF67216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81F9D83B-FC39-421D-AFAE-7426BBF67216}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF7B4FAB-69B9-4161-BFC7-224EC6F3AA92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF7B4FAB-69B9-4161-BFC7-224EC6F3AA92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF7B4FAB-69B9-4161-BFC7-224EC6F3AA92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF7B4FAB-69B9-4161-BFC7-224EC6F3AA92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4651857C-0A5B-4364-86D4-205411CEA865}
+	EndGlobalSection
+EndGlobal
